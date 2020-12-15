@@ -1,9 +1,4 @@
-<!-- [Ronaldo Kereh](https://scontent.fupg6-1.fna.fbcdn.net/v/t1.0-9/131369918_734004467493051_4663381366859807319_n.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=GK7sFPfL0NcAX9lWkB7&_nc_ht=scontent.fupg6-1.fna&oh=5a6ee3e26926c49ca4e731d7211f9f6a&oe=5FFF6FF3) -->
-<center>
-![Ronaldo Kereh](https://scontent.fupg6-1.fna.fbcdn.net/v/t1.0-9/130285619_732571930969638_3574663435011915579_n.jpg?_nc_cat=101&ccb=2&_nc_sid=174925&_nc_ohc=liJcuBJgN0cAX-s7934&_nc_ht=scontent.fupg6-1.fna&oh=11c482f86236c8c05301605eb6b5b48a&oe=5FFFEA0C)
-</center>
-
-<h2>Hey there! I'm Ronaldo Kereh</h2>
+<h2>Hey there! I'm <b>Ronaldo Kereh</b></h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
