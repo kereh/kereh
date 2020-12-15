@@ -42,3 +42,4 @@
 
 ### ⚙️ You Can Contact Me On
 ![Facebook](https://img.shields.io/badge/-Ronaldo%20Kereh-05122A?style=flat&logo=facebook)
+![Gmail](https://img.shields.io/badge/-kerehchannel@gmail-05122A?style=flat&logo=gmail)
