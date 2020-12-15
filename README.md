@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)$nbsp;
-![AngularJS](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)$nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
