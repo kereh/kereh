@@ -50,12 +50,5 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+Credits: [Ronaldo Kereh](https://github.com/kereh)
 
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100026505135031"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
------
-Credits: ![Ronaldo Kereh](https://github.com/kereh)
-
-Last Edited on: 11/12/2020
