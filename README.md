@@ -1,4 +1,4 @@
-![Ronaldo Kereh](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Ronaldo Kereh](https://scontent.fupg6-1.fna.fbcdn.net/v/t1.0-9/131369918_734004467493051_4663381366859807319_n.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=GK7sFPfL0NcAX9lWkB7&_nc_ht=scontent.fupg6-1.fna&oh=5a6ee3e26926c49ca4e731d7211f9f6a&oe=5FFF6FF3)
 
 <h2>Hey there! I'm Ronaldo Kereh</h2>
 
