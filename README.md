@@ -41,5 +41,4 @@
 </center>
 
 ### ⚙️ You Can Contact Me On
-- Facebook : Ronaldo Kereh
-- Email : kerehchannel@gmail.com
+![Facebook](https://img.shields.io/badge/-Ronaldo%20Kereh-05122A?style=flat&logo=facebook)
