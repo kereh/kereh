@@ -40,6 +40,6 @@
 </a>
 </center>
 
-### ⚙️ $nbsp;You Can Contact Me On
+### ⚙️ You Can Contact Me On
 - Facebook : Ronaldo Kereh
 - Email : kerehchannel@gmail.com
