@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kereh&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Kereh wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kereh)](https://github.com/kereh)
   
 </center>
 
