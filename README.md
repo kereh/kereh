@@ -34,6 +34,7 @@
 <a href="https://github.com/kereh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kereh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kereh&layout=compact&langs_count=8&theme=vue-dark"/>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kereh)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </center>
 
