@@ -34,9 +34,9 @@
 <a href="https://github.com/kereh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kereh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kereh&layout=compact&langs_count=8&theme=vue-dark"/>
-  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod")
 </a>
 </center>
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kereh")
 
 ### ⚙️ You Can Contact Me On
 ![Facebook](https://img.shields.io/badge/-Ronaldo%20Kereh-05122A?style=flat&logo=facebook)
