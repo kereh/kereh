@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop website.\
 🎓 &nbsp;I'm currently studying Computer Science at the SMK Kristen 2 Tomohon.\
-💬 &nbsp;I'm can speak a little Japanese and English.\
+<!-- 💬 &nbsp;I'm can speak a little Japanese and English.\ -->
 ✉️ &nbsp;You can shoot me an email at kerehchannel@gmail.com! I'll try to respond as soon as I can.\
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
@@ -15,8 +15,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
+<!-- ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte) -->
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
