@@ -32,8 +32,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kereh&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>  
 </center>
-
-### ⚙️ You Can Contact Me On
-![Facebook](https://img.shields.io/badge/-Ronaldo%20Kereh-05122A?style=flat&logo=facebook)
-![Gmail](https://img.shields.io/badge/-kerehchannel@gmail-05122A?style=flat&logo=gmail)
-![Whatsapp](https://img.shields.io/badge/-6289612225233-05122A?style=flat&logo=whatsapp)
