@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop website.\
-🎓 &nbsp;I'm currently studying Computer Science at the SMK Kristen 2 Tomohon.\
-✉️ &nbsp;You can shoot me an email at kerehchannel@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp;I like to explore new technologies.\
+🎓 &nbsp;I'm currently studying Computer Science.\
+✉️ &nbsp;You can contact me an email at kerehchannel@gmail.com! I'll try to respond as soon as I can.\
 
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
