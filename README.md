@@ -4,7 +4,7 @@
 
 ### About Me
 
-💡 &nbsp;I like to explore new technologies.\
+💡 &nbsp;I like to explore new technologies.
 <!-- 🎓 &nbsp;I'm currently studying Computer Science.\ -->
 ✉️ &nbsp;You can contact me an email at kerehchannel@gmail.com! I'll try to respond as soon as I can.\
 
