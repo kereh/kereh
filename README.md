@@ -1,6 +1,6 @@
-<h2>Hey there! I'm <b>Ronaldo Kereh</b></h2>
+<!-- <h2>Hey there! I'm <b>Ronaldo Kereh</b></h2> -->
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+## 👋 &nbsp;Hey there! I'm Ronaldo Kereh
 
 <!-- ### About Me -->
 
