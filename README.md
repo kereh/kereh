@@ -2,11 +2,11 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### About Me
+<!-- ### About Me -->
 
-💡 &nbsp;I like to explore new technologies.
+<!-- 💡 &nbsp;I like to explore new technologies. -->
 <!-- 🎓 &nbsp;I'm currently studying Computer Science.\ -->
-✉️ &nbsp;You can contact me an email at kerehchannel@gmail.com! I'll try to respond as soon as I can.\
+<!-- ✉️ &nbsp;You can contact me an email at kerehchannel@gmail.com! I'll try to respond as soon as I can.\ -->
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
