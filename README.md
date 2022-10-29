@@ -3,4 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kereh&label=Profile%20views&color=grey&style=for-the-badge" alt="kereh" /> </p>
 
-[![@kereh's Holopin board](https://holopin.io/api/user/board?user=kereh)](https://holopin.io/@kereh)
+<!-- [![@kereh's Holopin board](https://holopin.io/api/user/board?user=kereh)](https://holopin.io/@kereh) -->
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kereh&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kereh&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
