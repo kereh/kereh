@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kereh&count_private=true&show_icons=true&theme=dark" />
   </a>
 </p>
-<br>
+<!-- <br> -->
 <p align="center">
   <a href="https://github.com/kereh">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kereh&layout=compact&theme=dark&langs_count=8" />
