@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kereh&label=Profile%20views&color=grey&style=for-the-badge" alt="kereh" />
 </p>
 
-[![@kereh's Holopin board](https://holopin.io/api/user/board?user=kereh)](https://holopin.io/@kereh)
+<!-- [![@kereh's Holopin board](https://holopin.io/api/user/board?user=kereh)](https://holopin.io/@kereh) -->
 <!-- <p align="center">
   <a href="https://github.com/kereh">
     <img src="https://github-readme-stats.vercel.app/api?username=kereh&count_private=true&show_icons=true&theme=dark" />
