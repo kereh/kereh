@@ -28,11 +28,6 @@ jobs:
           user: kereh
           template: classic
           base: header, activity, community, repositories, metadata
-          base_hireable: yes
           config_timezone: Asia/Shanghai
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers
